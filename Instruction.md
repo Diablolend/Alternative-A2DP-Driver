@@ -14,5 +14,5 @@ _(NOTE: This manipulation may not work on Windows 11 24H2. Try using Windows tes
 _(P.S. If you accidentally installed the original driver, you can remove it like this: pnputil.exe -f -d C:\Windows\System32\DriverStore\FileRepository\alta2dp.inf_amd64_8adcf7b721e1e624\AltA2DP.inf)_
 - - alta2dp.inf_amd64_8adcf7b721e1e624 may differ from yours. Go to "C:\Windows\System32\DriverStore\FileRepository \" and find your alta2dp folder.  
 
-_(P.S.S. virustotal or antivirus may swear at the driver. This is a normal occurrence for unsigned or fake-signed applications. But it's also about trust. :))_
+_(P.S.S. virustotal or antivirus may swear at the driver. This is a normal occurrence for unsigned or fake-signed applications. But it's also about trust. :))_  
 _(P.S.S.S. Judging by the reviews, it is best to install the ALT version of the driver, as the antivirus may remove the driver version due to a false alarm.)_
