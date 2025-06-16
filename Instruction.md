@@ -15,3 +15,4 @@ _(P.S. If you accidentally installed the original driver, you can remove it like
 - - alta2dp.inf_amd64_8adcf7b721e1e624 may differ from yours. Go to "C:\Windows\System32\DriverStore\FileRepository \" and find your alta2dp folder.  
 
 _(P.S.S. virustotal or antivirus may swear at the driver. This is a normal occurrence for unsigned or fake-signed applications. But it's also about trust. :))_
+_(P.S.S.S. Judging by the reviews, it is best to install the ALT version of the driver, as the antivirus may remove the driver version due to a false alarm.)_
