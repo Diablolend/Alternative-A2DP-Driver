@@ -1,7 +1,7 @@
 # Alternative-A2DP-Driver
 For informational and research purposes only! Alternative A2DP Driver
 
-## RU
+## RU 🇷🇺
 
 ### Дисклеймер
 
@@ -10,7 +10,7 @@ For informational and research purposes only! Alternative A2DP Driver
 
 [Инструкция по установке](Инструкция.md)
 
-## EN
+## EN 🇬🇧
 
 ### Disclaimer
 
@@ -19,7 +19,7 @@ Do not use it to violate license agreements.
 
 [Installation Instructions](Instruction.md)
 
-## CN
+## CN 🇨🇳
 
 ### 免责声明
 
